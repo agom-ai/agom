@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 # Agom
 AI Powered Persian Voice Assistant
 
@@ -7,5 +5,3 @@ AI Powered Persian Voice Assistant
 ```
 pip install agom
 ```
-
-</div>
